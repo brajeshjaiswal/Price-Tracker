@@ -21,16 +21,6 @@ This project was built as part of an Android coding challenge.
 
 ---
 
-## 🎞️ Demo GIF
-
-<div align="center">
-
-<img src="screenshots/demo.gif" width="350"/>
-
-</div>
-
----
-
 # 🚀 Features
 
 ### 🔌 Real-time WebSocket Price Stream  
