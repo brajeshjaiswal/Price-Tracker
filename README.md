@@ -6,12 +6,16 @@ This project was built as part of an Android coding challenge.
 ---
 
 ## 🖼️ Screenshots  
-(Add your screenshots here)
 
-```
-/screenshots/light_mode.png  
-/screenshots/dark_mode.png  
-```
+<div align="center">
+
+### 🌞 Light Mode  
+<img src="screenshots/light_mode.png" width="350"/>
+
+### 🌙 Dark Mode  
+<img src="screenshots/dark_mode.png" width="350"/>
+
+</div>
 
 ---
 
@@ -19,7 +23,7 @@ This project was built as part of an Android coding challenge.
 
 <div align="center">
 
-![Demo GIF](screenshots/demo.gif)
+<img src="screenshots/demo.gif" width="350"/>
 
 </div>
 
@@ -202,17 +206,7 @@ Run all tests:
 
 ---
 
-# ✨ Bonus Ideas (Future Enhancements)
-
-- Real stock API integration  
-- Persistent theme switcher (DataStore)  
-- Real REST API + WebSocket hybrid  
-- Watchlist / favorites  
-- Price charts (Sparkline)  
-- Offline caching  
-
----
 
 # 🙌 Credits
 
-Created by **Brajesh Jaiswal** as part of an Android Coding Challenge.
+Created by **Brajesh Jaiswal**
