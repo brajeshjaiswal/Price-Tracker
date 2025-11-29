@@ -34,7 +34,6 @@ This project was built as part of an Android coding challenge.
 ### 🎨 Price Change Indicators  
 - Green **↑** for price increase  
 - Red **↓** for price decrease  
-- Gray **→** for flat  
 - 1-second background flash (green/red)
 
 ### 🌗 Light & Dark Themes (Material 3)  
