@@ -10,9 +10,8 @@ This project was built as part of an Android coding challenge.
 <div align="center">
 
 ### 🌞 Light Mode  
-![image](https://github.com/user-attachments/assets/338d805c-ac83-40f0-b737-ea0dbda59f6e)
 
-<img src="screenshots/light_mode.png" width="350"/>
+<img src="![image](https://github.com/user-attachments/assets/338d805c-ac83-40f0-b737-ea0dbda59f6e)" width="350"/>
 
 ### 🌙 Dark Mode  
 <img src="screenshots/dark_mode.png" width="350"/>
