@@ -11,7 +11,8 @@ This project was built as part of an Android coding challenge.
 
 ### 🌞 Light Mode  
 
-<img src="https://github.com/user-attachments/assets/338d805c-ac83-40f0-b737-ea0dbda59f6e" width="350"/>
+<img src="![image](https://github.com/user-attachments/assets/da33422f-81fd-4db7-ab5d-e60b0f1f80eb)
+" width="350"/>
 
 ### 🌙 Dark Mode  
 <img src="screenshots/dark_mode.png" width="350"/>
